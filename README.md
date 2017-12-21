@@ -1,2 +1,2 @@
-# JasenDUT
-Project Jasen DUT UPEM
+# PROJET JAVA
+groupe whatapps ? niveau tache ?
