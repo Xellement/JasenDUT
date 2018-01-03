@@ -6,5 +6,7 @@ public class IndexingTest {
 		// TODO Auto-generated method stub
 		System.out.println("Nils Pernet");
 		System.out.println("Flo");
+		System.out.println("Coco");
+
 	}
 }
